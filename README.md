@@ -2,7 +2,7 @@ github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo19013
 Fork on GitHub5688
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeans-team&label=Profile%20views&color=0e75b6&style=flat" alt="omeans-team" /> </p>
 
@@ -91,5 +91,5 @@ Issues
 Pull Requests
 Join Community
 Discord of the community
-Developed in India 🇮🇳
+Developed in Indonesia 🇮🇳
 Buy Me A Coffee
